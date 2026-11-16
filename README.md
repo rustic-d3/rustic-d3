@@ -10,7 +10,7 @@ I build web applications with **Python, Django, React and Docker**, and I enjoy 
 - **Email forensics tool**, built as a trainee at **OPSWAT**: parses `.eml` files, validates DKIM / DMARC / ARC, analyses routing headers and writes AI summaries.
   `Python` `Docker` `AWS S3` `Gemini API`. *Code is private.*
 - **[Bloom](https://github.com/rustic-d3/Bloom-v2)**: a class-management platform for a programming school. Teacher scheduling, automatic Google Meet links and Twilio call reminders.
-  `Django REST` `React` `PostgreSQL` `Render`. **[Live demo](https://bloom-v2-ten.vercel.app)**
+  `Django REST` `React` `PostgreSQL` `Render`. 
 - **[Netguard](https://github.com/rustic-d3/Netguard)**: a network-wide ad blocker you start with one command.
   `Vagrant` `Bash` `Linux` `Pi-hole` `DNS`
 
